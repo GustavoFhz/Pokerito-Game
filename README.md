@@ -80,5 +80,5 @@ The computer wins!
 - Criar um modo multiplayer
 
 ## Autor
-Desenvolvido por [Seu Nome].
+Desenvolvido por [Gustavo Silva].
 
